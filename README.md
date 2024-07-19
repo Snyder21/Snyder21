@@ -40,7 +40,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/pk_21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Pankajkumar21/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-blue?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/pk_21)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-black?style=for-the-badge)](https://www.hackerearth.com/@pk_21)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.codingninjas.com/codestudio/profile/pk_21)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/pankajkumarnishad196)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-85305123a/)
