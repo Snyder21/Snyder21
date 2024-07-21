@@ -1,14 +1,13 @@
  # Hi there, I'm Pankaj Kumar! 👨‍💻
 
- I’m an enthusiastic developer and avid competitive programmer 
+ I am a passionate developer with a deep enthusiasm for coding and a strong track record in competitive programming
 
-## 🚀 About Me
+## 🚀 About 
 
 - 🌱 I’m currently learning **Backend WebDev Technologies**
-- 👨‍💻 All  projects are available at [here](https://github.com/Snyder21)
-- 💬 I’m passionate about **Competitive Programming** and **Web Development**
+- 👨‍💻 All projects are available [here](https://github.com/Snyder21?tab=repositories)
+- 💬 With a fervent passion for Competitive Programming and Web Development,I continually strive to push the boundaries of my coding expertise.
 - 📫 How to reach me: **[pankajkumarnishad196@gmail.com](mailto:pankajkumarnishad196@gmail.com)**
-- ⚡ Love solving problems and building cool projects.
 
 ## 🛠 Skills & Tools
 
@@ -34,7 +33,7 @@
 - Database Management Systems (DBMS)
 - Computer Networks (CN)
 
-## 🌐 Connect with me
+## 💻 Coding Profiles
 
 [![Codechef](https://img.shields.io/badge/Codechef-4--star-brightgreen?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pkcoding21)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/pk_21)
@@ -42,11 +41,10 @@
 [![AtCoder](https://img.shields.io/badge/AtCoder-blue?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/pk_21)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.codingninjas.com/codestudio/profile/pk_21)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/pankajkumarnishad196)
+
+## 📧 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-85305123a/)
-
-## 📊 GitHub Stats
-
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snyder21&show_icons=true&theme=radical)
+ 
 
 ## 🎓 Education
 
